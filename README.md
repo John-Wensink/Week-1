@@ -1,1 +1,1 @@
-First week of .py files, screenshots, and Critical Thinking Drafts
+First week of .py files, screenshots, flowchart, and Critical Thinking
